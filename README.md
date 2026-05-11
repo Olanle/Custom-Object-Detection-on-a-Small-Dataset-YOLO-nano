@@ -8,6 +8,8 @@ Training YOLOv8-nano to detect and classify 6 vehicle types in real-world images
 
 Object detection goes beyond classification — it predicts not just what is in an image but where each object is located using bounding boxes. This project trains a lightweight YOLOv8-nano detector on 6 vehicle classes, producing a model fast enough for real-world deployment and accurate enough for production use.
 
+YOLOv8 Nano (often referred to as yolov8n.pt) is the smallest and fastest version of the Ultralytics YOLOv8 object detection model family. Released in January 2023, it is designed for edge AI applications and devices with limited computational power, such as Raspberry Pis, drones, or mobile systems.
+
 ---
 
 ## Dataset Selection Journey
